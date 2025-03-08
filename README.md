@@ -1,4 +1,9 @@
 # LootersofAtlantisRelease
+Steps (if needed):
+* download and extract zip (3-8 and beyond)
+* click on exe in folder(make a shortcut on desktop if you want)
+* click on more info, then click run anyway (may not pop up but will only show once)
+
 
 Links for Releases:
 
