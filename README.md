@@ -8,5 +8,5 @@ Steps (if needed):
 Links for Releases:
 
 Pre Alpha:
-*  [Pre-Alpha 3-8-2025](https://github.com/bpoletti/LootersOfAtlantisRelease/releases/download/V0.0.3/LootersofAtlantisGame_03_03_25.zip)
+*  [Pre-Alpha 3-8-2025](https://github.com/bpoletti/LootersOfAtlantisRelease/releases/download/V0.0.4/LootersofAtlantisGame_03_03_25.zip)
 *  [Pre Alpha 2-19-2025 (Outdated)](https://github.com/bpoletti/LootersOfAtlantisRelease/releases/download/V0.0.2/LootersofAtlantisGame_Build_2_19_25.exe)
